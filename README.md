@@ -9,9 +9,8 @@ This project outlines a comprehensive guide for setting up a simulated Microsoft
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft 365
-- Microsoft Outlook
-- Command Line Run Switches
+- Office 365
+- Microsoft Exchange Admin Center
 
 <h2>Operating Systems Used </h2>
 

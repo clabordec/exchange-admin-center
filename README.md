@@ -4,7 +4,7 @@
 
 
 <h1>Office 365 Exchange</h1>
-This project outlines the troubleshooting process of Outlook Office 365 using command line switches.<br />
+This project outlines a comprehensive guide for setting up a simulated Microsoft 365 Exchange environment.<br />
 
 
 <h2>Environments and Technologies Used</h2>

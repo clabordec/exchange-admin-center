@@ -14,7 +14,7 @@ This project outlines a comprehensive guide for setting up a simulated Microsoft
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10 Pro
+- Windows 11 Enterprise
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 

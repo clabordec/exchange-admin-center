@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/ba152862-1006-4838-8c48-25d6ee48fb9a" alt="Microsoft Office 365 Logo" width = "450"/>
+<img src="https://github.com/user-attachments/assets/ba152862-1006-4838-8c48-25d6ee48fb9a" alt="Microsoft Office 365 Logo" width = "650"/>
 </p>
 
 
